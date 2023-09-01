@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  [![<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href = "www.linkedin.com/in/vasudhanreddy"
- />](href = "www.linkedin.com/in/vasudhanreddy")]
+  <a href = "www.linkedin.com/in/vasudhanreddy"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" 
+ /></a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I am a person who loves to learn new and challenging things 👨‍💻. My philosophy is to learn every day and enhance every day. I am enthusiastic about DevOps philosophy and learning new tools, solving challenges, and exploring new technologies. You can connect with me on LinkedIn. I love to make connections with new people and share ideas. I am excited to hear from you.</p>
+<p align="left">I am enthusiastic about DevOps philosophy and learning new tools, solving challenges, and exploring new technologies. You can connect with me on LinkedIn. I love to make connections with new people and share ideas. I am excited to hear from you.</p>
 
 ###
 
