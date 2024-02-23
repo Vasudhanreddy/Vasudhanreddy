@@ -61,5 +61,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasudhanreddy&show_icons=true&locale=en&layout=compact" alt="Vasudhanreddy" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudhanreddy&show_icons=true&locale=en" alt="Vasudhanreddy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudhanreddy&" alt="Vasudhanreddy" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vasudhanreddy&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
