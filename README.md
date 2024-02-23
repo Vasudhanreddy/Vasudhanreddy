@@ -21,7 +21,7 @@
 ###
 
 <p align="left">I am enthusiastic about DevOps philosophy and learning new tools, solving challenges, and exploring new technologies. You can connect with me on LinkedIn. I love to make connections with new people and share ideas. I am excited to hear from you.</p>
-- 📫 How to reach me ### vasudhanreddy4@gmail.com
+- 📫 How to reach me: vasudhanreddy4@gmail.com
 
 ###
 
