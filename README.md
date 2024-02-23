@@ -21,6 +21,7 @@
 ###
 
 <p align="left">I am enthusiastic about DevOps philosophy and learning new tools, solving challenges, and exploring new technologies. You can connect with me on LinkedIn. I love to make connections with new people and share ideas. I am excited to hear from you.</p>
+- 📫 How to reach me **vasudhanreddy4@gmail.com**
 
 ###
 
@@ -67,6 +68,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudhanreddy&" alt="Vasudhanreddy" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vasudhanreddy&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
